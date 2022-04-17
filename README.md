@@ -1,2 +1,9 @@
 # todolist
-vue demo
+
+npm install
+
+
+npm run serve
+
+
+
